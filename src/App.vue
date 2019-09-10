@@ -1,15 +1,13 @@
 <template>
   <div id="app">
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
 <script>
-export default {
-
-}
+import "@/styles/reset.css";
+export default {};
 </script>
 
 <style lang="less" scoped>
-
 </style>

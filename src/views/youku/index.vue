@@ -1,13 +1,13 @@
 <template>
-  <h1>优酷</h1>
+  <HeaderNav />
 </template>
 
 <script>
+import HeaderNav from "@/components/headerNav";
 export default {
-
-}
+  components: { HeaderNav }
+};
 </script>
 
 <style>
-
 </style>
