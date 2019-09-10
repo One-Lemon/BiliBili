@@ -1,4 +1,4 @@
-# v_youku
+# Vue BiliBili
 
 ## Project setup
 ```
